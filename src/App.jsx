@@ -9,7 +9,7 @@ import {
     RadioGroup,
     Radio,
     Button,
-} from '@chakra-ui'
+} from '@chakra-ui/react'
 
 function App() {
     return (
@@ -18,9 +18,9 @@ function App() {
                 as="header"
                 h={150}
                 bg="teal.500"
-                colot="#fff"
+                color="#fff"
                 fontWeight="bold"
-                fontSize="4x1"
+                fontSize="35px"
                 pb="8"
             >
                 Fórmulario
